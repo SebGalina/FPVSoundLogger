@@ -35,20 +35,30 @@ This project is the result of that idea.
 - A transmitter (TX) capable of assigning **AUX channels** (EdgeTX, OpenTX, etc.)
 - A stable **3.3V** output on the flight controller and a **common ground**
 - A free **switch** or similar to toggle recording modes
-- Basic soldering tools for connecting power, ground, and signal wires and plenty of **flux** — <u>**flux is life**</u>
+- Basic soldering tools for connecting power, ground, and signal wires and plenty of flux — <u>***flux is life***</u>
 
 ## How It Works
 
-- Use one of your TX switches to Enable recording mode
-- Arm your drone: the module immediately starts writing audio data to the SD card
-- Once disarmed — whether after a normal end of flight or a dramatic crash — the module stops recording and finalizes the audio file with the proper header
-- Remove the SD card and retrieve the WAV file that matches the exact flight duration
+- Use one of your TX switches to **Enable recording mode**
+- **Arm your drone**: the module immediately starts **writing audio data** to the SD card
+- **Once disarmed** — whether after a normal end of flight or a dramatic crash — the module **stops recording** and finalizes the audio file with the proper header
+- Remove the SD card and retrieve the **WAV file** that matches the exact flight duration
 - Import the audio into your favorite video editor and drop it on the timeline — it syncs effortlessly with the DJI footage !
 
 ![FilesDurations](resources/images/micAndVideoDuration.png)
 
 ## Architecture / Hardware Overview
-## Build & Installation & Usage
+
+- INMP441 I2S NEMS Mic
+
+[INMP441](resources/images/INMP441.png)
+The INMP441 is a high-performance, low power, digital-output, omnidirectional MEMS microphone.
+
+    - compact 14x14mm PCB Size
+    - only 0.35gr
+
+
+## Build & Installation & Configuration
 
 - You'll need to configure AUX channel on your TX to Enable/Disable recording
 
