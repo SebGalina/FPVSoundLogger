@@ -49,28 +49,10 @@ This project is the result of that idea.
 
 ## Architecture / Hardware Overview
 
-| INMP441 | RP2040-Zero | SPI SD Module |
-| ------- | ----------- | ------------- |
-|<img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> |
-| This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
-
-    - size: 12x14mm PCB Size
-    - weight: < 1gr | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
-
-    - size: 12x14mm PCB Size
-    - weight: < 1gr | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
-
-    - size: 12x14mm PCB Size
-    - weight: < 1gr|
-
-- INMP441 I2S NEMS Mic
-
-<img src="resources/images/INMP441.png" height="150">
-
-This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
-
-    - size: 12x14mm PCB Size
-    - weight: < 1gr
+| | INMP441 | RP2040-Zero | SPI SD Module |
+| | ------- | ----------- | ------------- |
+| Visual |<img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> |
+| Description | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
 
 
 ## Build & Installation & Configuration
