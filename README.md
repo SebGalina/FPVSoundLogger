@@ -52,6 +52,7 @@ This project is the result of that idea.
 - INMP441 I2S NEMS Mic
 
 ![INMP441](resources/images/INMP441.png)
+
 This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
 
     - compact 14x14mm PCB Size
