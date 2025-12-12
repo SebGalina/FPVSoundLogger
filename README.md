@@ -49,9 +49,9 @@ This project is the result of that idea.
 
 ## Architecture / Hardware Overview
 
-|  | INMP441 | RP2040-Zero | SPI SD Module |
+|  | INMP441 | RP2040-Zero | SD Card SPI Module |
 | - | ------- | ----------- | ------------- |
-| |<img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> |
+| |<img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/rp2040-Zero.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> |
 | Description | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone | qsdqsdfqsdfqsdff qsdfqsdfqsf qdsfqsdf| gsdfhs qsdfqsdf gqsdfqfsdfqs qsdfsdf qsdf fqsdfqsdfqs qsdfefgqsgdsfe qsdfqsdfqsdf |
 | Size | 12x14mm | | |
 | Weight | <1gr | | |
