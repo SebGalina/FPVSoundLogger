@@ -53,6 +53,8 @@ This project is the result of that idea.
 | - | ------- | ----------- | ------------- |
 | |<img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> | <img src="resources/images/INMP441.png" height="150"> |
 | Description | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone | qsdf | gsdfhs |
+| Size | 12x14mm | | |
+| Weight | <1gr | | |
 
 
 ## Build & Installation & Configuration
