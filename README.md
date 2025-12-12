@@ -55,12 +55,10 @@ This project is the result of that idea.
 | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
 
     - size: 12x14mm PCB Size
-    - weight: < 1gr
-| This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
+    - weight: < 1gr | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
 
     - size: 12x14mm PCB Size
-    - weight: < 1gr
-|This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
+    - weight: < 1gr | This is an high-performance, low power, digital-output, omnidirectional MEMS microphone.
 
     - size: 12x14mm PCB Size
     - weight: < 1gr|
