@@ -55,6 +55,7 @@ This project is the result of that idea.
 | Description | The INMP441 is a compact digital MEMS microphone that outputs audio through an I²S interface.It delivers low‑noise, high‑quality audio capture with a built‑in amplifier and ADC | The Raspberry Pi Pico uses the RP2040 dual‑core ARM Cortex‑M0+ microcontroller running at up to 133 MHz with 264 KB RAM and 2 MB flash.It offers rich connectivity like I²C, SPI, UART, PWM, ADC, and powerful PIO blocks for custom protocols.Compact, low‑cost, and easy to program in **MicroPython** or C/C++.| Micro SD TF Card Memory Shield Module provides an easy way to add microSD storage to microcontrollers.It uses an onboard card socket and level shifting for safe 3.3 V–5 V operation.Ideal for large datasets via SPI. |
 | Size | 12x14mm | 18x24.5mm | 18x21mm |
 | Weight | 0.36gr | 1.66gr | 1.46gr |
+| AliExpress | [INMP441](https://www.aliexpress.com/item/1005007889064664.html?spm=a2g0o.order_list.order_list_main.142.32325e5blt8IZ0) | [RP20240-Zero](https://www.aliexpress.com/item/1005007650325892.html?spm=a2g0o.order_list.order_list_main.147.32325e5blt8IZ0) | [SD TF Module](https://www.aliexpress.com/item/1005005591145849.html?spm=a2g0o.order_list.order_list_main.152.32325e5blt8IZ0) |
 
 
 ## Build & Installation & Configuration
