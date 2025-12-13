@@ -24,14 +24,14 @@ This project is the result of that idea.
 
 ## Features
 - Autonomous module
-- Work with Betaflight/INAV
+- Work with [Betaflight](https://github.com/betaflight/betaflight)/INAV 
 - Enable/disable recording
 - Auto record using arm/disarm trigger
 - Audio/video share the same duration*
 
 ## Prerequisites
 
-- A flight controller running **Betaflight**/**INAV** with at least two available PINIO outputs
+- A flight controller running **[Betaflight](https://github.com/betaflight/betaflight)**/**INAV** with at least two available PINIO outputs
 - A transmitter (TX) capable of assigning **AUX channels** (EdgeTX, OpenTX, etc.)
 - A stable **3.3V** output on the flight controller and a **common ground**
 - A free **switch** or similar to toggle recording modes
