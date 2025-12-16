@@ -135,7 +135,7 @@ print(f"WE ARE {'fpv'.upper()}")
 - Thonny will upload the entire structure automatically
 
 > **Note:** This method preserves the folder structure. The `lib` folder and its contents will be uploaded correctly.
-<p align="center">
+<p align="left">
 <img src="resources/images/lib_upload_to.png">
 <img src="resources/images/lib_main_uploaded.png">
 </p>
