@@ -39,9 +39,9 @@ This project is the result of that idea.
 
 ## How It Works
 
-- Power up the drone — In **Disable** mode module's LED **Red** blinking
-- Use one of your TX switches to **Enable** recording mode — the LED now blinks **Green**
-- **Arm your drone**: the module immediately starts **writing audio data** to the SD card, and the LED now blinks **Blue**
+- Power up the drone — In **Disable** mode module's LED **🔴Red** blinking
+- Use one of your TX switches to **Enable** recording mode — the LED now blinks **🟢Green**
+- **Arm your drone**: the module immediately starts **writing audio data** to the SD card, and the LED now blinks **🔵Blue**
 - **Once disarmed** — whether after a normal end of flight or a dramatic crash — the module **stops recording** and finalizes the audio file with the proper header
 - Remove the SD card and retrieve the **WAV file** that matches the exact flight duration
 - Import the audio into your favorite video editor and drop it on the timeline — it syncs effortlessly with the DJI footage !
