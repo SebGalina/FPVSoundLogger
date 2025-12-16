@@ -118,6 +118,25 @@ print(f"WE ARE {'fpv'.upper()}")
 
 <img src="resources/images/MicroPythonInstalled.png">
 
+##### 6. Project files to upload
+├── main.py                    # Main application (auto-runs on boot)
+   └── lib/
+       ├── sdcard.py              # SD card driver
+       └── fpv_sound_logger.py    # Core logger class
+
+- In Thonny, go to **View > Files**
+- In your computer's file panel (left side), navigate to your project folder
+- Select the `lib` folder
+- Right-click → **"Upload to /"**
+- Then select `main.py`
+- Right-click → **"Upload to /"**
+- Thonny will upload the entire structure automatically
+
+> **Note:** This method preserves the folder structure. The `lib` folder and its contents will be uploaded correctly.
+
+<img src="resources/images/lib_upload_to.png">
+<img src="resources/images/lib_main_uploaded.png">
+
 ### TX && Betaflight configuration
 
 All you need to know about Betaflight's Pinio && PinioBox can be found [here](https://www.betaflight.com/docs/wiki/guides/current/Pinio-and-PinioBox), I also got some excellent advice from Betaflight’s [official discord](https://discord.betaflight.com/)
