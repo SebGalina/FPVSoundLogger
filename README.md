@@ -41,7 +41,7 @@ This project is the result of that idea.
 
 - Power up the drone — In **Disable** mode module's LED **Red** blinking
 - Use one of your TX switches to **Enable** recording mode — the LED now blinks **Green**
-- **Arm your drone**: the module immediately starts **writing audio data** to the SD card, and the LED turns solid **Green**
+- **Arm your drone**: the module immediately starts **writing audio data** to the SD card, and the LED now blinks **Blue**
 - **Once disarmed** — whether after a normal end of flight or a dramatic crash — the module **stops recording** and finalizes the audio file with the proper header
 - Remove the SD card and retrieve the **WAV file** that matches the exact flight duration
 - Import the audio into your favorite video editor and drop it on the timeline — it syncs effortlessly with the DJI footage !
@@ -185,3 +185,5 @@ Even if the 3.3 V or 5 V rail used to power the recorder is active while [Be
 Because of this, even with the ***MOTOR_STOP*** option enabled in the Motors tab, the brushless motors may still start spinning. As a result, you will always have motor or propeller noise in your recordings — never any silence. And if you need to speak into the microphone, **be careful**… or make sure to shout loud enough! ^^
 
 
+###### TODO
+A lot ...!?
