@@ -48,6 +48,9 @@ This project is the result of that idea.
 > **⚠️ Fine-tuning tip:** Due to DJI's camera initialization delay after arming, 
 > you may need to offset the audio track by **0.5-2 seconds** in your editor. 
 
+**Format:** `mic_XXXX_MM-SS.wav`
+- 🔵 **Index (XXXX)**: Auto-incremented counter (0001, 0002, 0003...)
+- 🟡 **Duration (MM-SS)**: Recording length in minutes and seconds
 ![FilesDurations](resources/images/micAndVideoDuration.png)
 
 ## Architecture / Hardware Overview
