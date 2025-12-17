@@ -29,7 +29,7 @@ This project is the result of that idea.
 - Work with [Betaflight](https://github.com/betaflight/betaflight)/[INAV](https://github.com/iNavFlight/inav) 
 - Enable/disable recording
 - Auto record using arm/disarm trigger
-- Audio/video share the same duration [*](#duration)
+- Audio/video share the same duration [*](#duration-consideration)
 
 ## Prerequisites
 
