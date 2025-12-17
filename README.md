@@ -48,8 +48,10 @@ This project is the result of that idea.
 - Remove the SD card and retrieve the **WAV file** that matches the exact flight duration
 - Import the audio into your favorite video editor and drop it on the timeline — it syncs effortlessly with the DJI footage !
 
-###### **⚠️ Duration ⚠️**
-Due to DJI's camera record initialization delay after arming, a typical **0.5-2 seconds** seconds delta can be observe and you may need to offset the audio track in your editor. 
+###### Duration consideration
+⚠️
+Due to DJI's camera record initialization delay after arming, a typical **0.5-2 seconds** seconds delta can be observed and you may need to offset the audio track in your editor. 
+⚠️
 
 **Format:** `rec_XXXX_MM-SS.wav`
 - 🔵 **Index (XXXX)**: Auto-incremented counter (0001, 0002, 0003...)
